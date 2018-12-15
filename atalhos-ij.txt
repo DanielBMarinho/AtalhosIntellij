@@ -1,0 +1,39 @@
+
+ALT+1 - abre/fecha projeto
+ALT+INSERT - criar alguma coisa
+psvm - primeira letra - public static void main
+sout - System.out.println 
+SHIFT+F10 - executar programa Java
+
+https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+F6 - mover para package
+
+ALT+Enter - sugestões, criar classe, etc
+
+ALT+Shift+Insert - insert modo coluna
+
+Buscar classe -  Control N
+
+CONTROL+SHIFT+a - busca ação
+
+CONTROL+y - remove linhas
+
+CONTROL+D - duplica linhas
+
+ALT-esq/ALT-dir - navegar entre as abas
+
+keymaps - define atalhos
+
+CTRL+ALT+L = formata o código
+
+rename - SHIFT - F6
+
+Ctrl + Alt + M - extrair método
+
+Ctrl + H - hierarquia
+
+Ctrl + H - estrutura do arquivo
+
+Alt + Shift + 7 - encontrar usos
+
