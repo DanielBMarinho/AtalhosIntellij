@@ -9,7 +9,7 @@
 
 ## atalhos
 
-keymaps - define atalhos
+* keymaps - define atalhos
 
 https://www.jetbrains.com/help/idea/migrating-from-eclipse-to-intellij-idea.html#Shortcuts
 
