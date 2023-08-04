@@ -103,23 +103,6 @@ Aprenda só esses:
 |                  |     // finally block                                               |
 |                  | }                                                                 |
 
-
-## busca
-
-* CONTROL + N Buscar classe 
-* SHIFT + SHIFT - busca qqer coisa
-* CONTROL + SHIFT + A - busca ação
-
-## outros
-
-* ALT + 1 - abre/fecha projeto
-* ALT + INSERT - criar alguma coisa
-* ALT + SHIFT + Insert - insert modo coluna
-* ALT - esq / ALT - dir - navegar entre as abas
-* ALT + SHIFT + 7 - encontrar usos
-* CONTROL + SHIFT + F12  - maximiza a tela 
-
-
 ## referências
 
 https://www.jetbrains.com/help/idea/migrating-from-eclipse-to-intellij-idea.html#Shortcuts
